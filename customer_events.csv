@@ -1,0 +1,9 @@
+event_id,customer_id,customer_name,city,email,effective_at
+EV001,CUST001,Asha Rao,Anantapur,asha@example.com,2025-01-01T00:00:00Z
+EV002,CUST001,Asha Rao,Bengaluru,asha@example.com,2025-03-01T00:00:00Z
+EV003,CUST002,Ravi Kumar,Hyderabad,ravi@example.com,2025-01-15T00:00:00Z
+EV004,CUST001,Asha Rao,Anantapur,asha@example.com,2025-02-01T00:00:00Z
+EV005,CUST002,Ravi Kumar,Hyderabad,ravi@example.com,2025-02-15T00:00:00Z
+EV006,CUST003,Meera Das,Chennai,meera@example.com,2025-01-20T00:00:00Z
+EV007,CUST003,Meera Das,,meera@example.com,2025-02-20T00:00:00Z
+EV002,CUST001,Asha Rao,Bengaluru,asha@example.com,2025-03-01T00:00:00Z
